@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: kubernetes
+  application:
+     name: portfolio-service
